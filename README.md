@@ -2,9 +2,9 @@
 
 Gweather is web application created by pthon and django and using openweatherapi 
 
-step 1 = Clone the git code --> git clone https://github.com/Vigneswaran-M97/Wether-application.git
-
-step 2 = open the project folder 
+**step 1** = Clone the git code --> git clone https://github.com/Vigneswaran-M97/Wether-application.git
+**
+step 2** = open the project folder 
 
 step 3 = go to openweatherapi website https://openweathermap.org/api signup get api key it's free
 
