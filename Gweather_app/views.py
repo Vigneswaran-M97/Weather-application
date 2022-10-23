@@ -6,7 +6,7 @@ import urllib.request
 import json
 
 def weather(request):
-    api = "Enter Your API key here within double quatation"
+    api = "d5f93e5497ded599e51a7a414b33d66f"
     date = datetime.now()
     today = date.strftime("%A %d, %B %Y")
     if request.method == "POST":
